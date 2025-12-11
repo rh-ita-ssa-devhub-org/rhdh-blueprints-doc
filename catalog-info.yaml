@@ -7,6 +7,7 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: your-org/rhdh-blueprints-doc
+    backstage.io/techdocs-ref: url:https://github.com/rh-ita-ssa-devhub-org/rhdh-blueprints-doc
   tags:
     - documentation
     - rhdh
@@ -14,6 +15,6 @@ metadata:
 spec:
   type: documentation
   lifecycle: production
-  owner: team-default
+  owner: user:default/user1
 
 
