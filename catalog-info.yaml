@@ -5,7 +5,6 @@ metadata:
   title: RHDH Blueprints Documentation
   description: Documentation for Red Hat Developer Hub Blueprints
   annotations:
-    backstage.io/techdocs-ref: dir:.
     github.com/project-slug: your-org/rhdh-blueprints-doc
     backstage.io/techdocs-ref: url:https://github.com/rh-ita-ssa-devhub-org/rhdh-blueprints-doc
   tags:
