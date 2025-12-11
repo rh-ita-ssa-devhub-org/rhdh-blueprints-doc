@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: rhdh-blueprints-doc
+  title: RHDH Blueprints Documentation
+  description: Documentation for Red Hat Developer Hub Blueprints
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: your-org/rhdh-blueprints-doc
+  tags:
+    - documentation
+    - rhdh
+    - blueprints
+spec:
+  type: documentation
+  lifecycle: production
+  owner: team-default
+
+
