@@ -12,6 +12,7 @@ nav:
       - Overview: blueprints/overview.md
       - Creating Blueprints: blueprints/creating.md
       - Using Blueprints: blueprints/using.md
+      - Bear: blueprints/bear.md
   - Reference:
       - Configuration: reference/configuration.md
       - API: reference/api.md
